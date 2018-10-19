@@ -22,6 +22,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        //testやで
+        //test3__
     }
 }
