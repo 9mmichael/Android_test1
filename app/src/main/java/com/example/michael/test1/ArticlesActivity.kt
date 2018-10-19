@@ -12,4 +12,5 @@ class ArticlesActivity : AppCompatActivity(){
             super.onCreate(savedInstanceState)
             setContentView(R.layout.activity_articles)
         }
+    //tetest2
 }
