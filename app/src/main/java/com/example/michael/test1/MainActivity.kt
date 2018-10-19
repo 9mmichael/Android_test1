@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         //Buttonの宣言
         val button: Button = findViewById(R.id.buttonTrans)
 
